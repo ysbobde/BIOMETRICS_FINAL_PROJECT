@@ -1,2 +1,2 @@
-# Online Voting System
+# Fingerprint Voting System
  
